@@ -1,0 +1,139 @@
+{
+  "personal_information": {
+    "name": "Vaibhav Jain",
+    "linkedin": "https://www.linkedin.com/in/01vaibhavjain/",
+    "email": "vaibhavjainadmirable@gmail.com",
+    "github": "https://github.com/thevaibhavjain",
+    "mobile": "+91-8874161707"
+  },
+  "skills": {
+    "languages": ["C++", "JavaScript"],
+    "frameworks": ["HTML and CSS", "Bootstrap", "NodeJS", "React"],
+    "tools_platforms": ["MySQL", "MongoDB", "Postman", "VS Code"],
+    "soft_skills": ["Problem-Solving Skills", "Detail Oriented", "Project Management", "Adaptability"]
+  },
+  "internships": [
+    {
+      "role": "Graphic Designer",
+      "company": "Centre For Professional Enhancement LPU",
+      "duration": "Oct 23-Apr 24",
+      "responsibilities": [
+        "Developing visually appealing graphics and templates for various events and initiatives within the Centre for Professional Enhancement.",
+        "Collaborated with seniors to brainstorm and enhance student interaction on the social media profile of CPE."
+      ]
+    },
+    {
+      "role": "Subject Matter Expert (Physics, Mathematics)",
+      "company": "LearnAsYouGo",
+      "duration": "Oct 22-Jan 23",
+      "responsibilities": [
+        "Guided groups of students in solving problems and solved over 450+ doubts of students.",
+        "Mentored students on how to approach a problem."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Music Listening App",
+      "institution": "Lovely Professional University",
+      "date": "Dec 23",
+      "domain": "Web Application",
+      "programming_languages": ["ReactJs", "NodeJs", "ElectronJs"],
+      "details": [
+        "Developed a user-friendly and visually appealing music listening website with dynamic visuals.",
+        "Designed the option to create custom playlists, view top trending, and listen to favorite artists' music.",
+        "Learning outcomes: Backend working with NodeJs, frontend ReactJS."
+      ]
+    },
+    {
+      "name": "Pharmacy E-Commerce Website",
+      "institution": "Lovely Professional University",
+      "date": "June 23",
+      "domain": "Website",
+      "programming_languages": ["HTML", CSS", "JavaScript"],
+      "details": [
+        "Created an intuitive user interface to display a wide array of medicines, along with a search filter feature for seamless browsing and selection of medicines.",
+        "Integrated cart functionality to enable users to add products and proceed to checkout.",
+        "Learning outcomes: Web designing, user interface development."
+      ]
+    },
+    {
+      "name": "CodeTantra Class Automation",
+      "institution": "Lovely Professional University",
+      "date": "June 22",
+      "domain": "Web Automation",
+      "programming_languages": ["Python"],
+      "details": [
+        "Developed an automation script using Selenium.",
+        "Facilitated automatic joining of online meeting classes (whenever available) on the CodeTantra MyClass platform.",
+        "Learning outcomes: Web automation."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "React Basics",
+      "issuer": "Coursera",
+      "date": "Feb 2024"
+    },
+    {
+      "title": "Google Cloud Bootcamp",
+      "issuer": "GeeksForGeeks",
+      "date": "July 2023"
+    },
+    {
+      "title": "Programming in Kotlin",
+      "issuer": "Coursera",
+      "date": "June 2023"
+    },
+    {
+      "title": "The Bits and Bytes of Computer Networking",
+      "issuer": "Coursera",
+      "date": "Nov 2022"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "3 Star Ranking in C++",
+      "issuer": "HackerRank",
+      "date": "June 2023"
+    },
+    {
+      "title": "Solved 250+ DSA Problems",
+      "issuer": ["LEETCODE", "GeeksForGeeks"],
+      "date": "June 2023"
+    },
+    {
+      "title": "Dean’s Top 10% Students",
+      "description": "For good academic performance and extra-curricular activities at university."
+    },
+    {
+      "title": "Secured 3rd Rank in Hackathon: HACKOVERFLOW 5.0",
+      "description": "Participated and ranked 3rd in the Hackathon organized by NIT Durgapur."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Punjab, India",
+      "degree": "Bachelor of Technology",
+      "field_of_study": "Computer Science and Engineering",
+      "cgpa": 7.75,
+      "start_date": "August 2021"
+    },
+    {
+      "institution": "Oxford Public School",
+      "location": "Gorakhpur, Uttar Pradesh",
+      "degree": "Intermediate",
+      "percentage": 92.6,
+      "date_range": "April 2018 - March 2020"
+    },
+    {
+      "institution": "Jawahar Navodaya Vidyalaya",
+      "location": "Gonda, Uttar Pradesh",
+      "degree": "Matriculation",
+      "percentage": 92.3,
+      "date_range": "April 2016 - March 2018"
+    }
+  ]
+}
